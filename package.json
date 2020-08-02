@@ -1,0 +1,22 @@
+{
+  "name": "newfactory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "bip39": "^3.0.2",
+    "dotenv": "^8.2.0",
+    "ethereum-hdwallet": "0.0.26",
+    "ganache-cli": "^6.9.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
